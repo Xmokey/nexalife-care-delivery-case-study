@@ -3,14 +3,14 @@
 
 > **Role:** Project Director / Delivery Lead  
 > **Industry:** HealthTech · SaaS · Referral & Care Coordination  
-> **Status:** Delivered / In Active Use  
+> **Status:** Delivered / In Field Testing  
 > **Product Type:** Role-based, appointment-focused platform
 
 ---
 
 ## Overview
 
-NexaLife Care functions as an **appointment-focused referral and care-coordination platform**, designed to connect clinics, patients, field teams, and advocates through a secure, compliant, and traceable digital system.
+NexaLife Care functions as an **appointment-focused referral and care-coordination platform**, designed to connect clinics and patients via a secure, compliant, and traceable digital system.
 
 The platform is built around **two distinct patient journeys** — digitally independent users and assisted users who require in-person onboarding and transport — while maintaining strict controls around consent, privacy, and regulatory compliance.
 
@@ -95,6 +95,7 @@ The delivered platform covered the following core areas:
 - Appointment-focused referral and care-coordination platform successfully delivered
 - Dual patient journeys validated and operational
 - Clinics, field teams, and advocates aligned within a single system
+- Appointment success tracking and documentation
 - Compliance-first workflows embedded into platform design
 
 > Specific internal metrics, patient data, and implementation details are excluded due to confidentiality.
