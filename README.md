@@ -10,7 +10,7 @@
 
 ## Overview
 
-NexaLife Care functions as an **appointment-focused referral and care-coordination platform**, designed to connect clinics and patients via a secure, compliant, and traceable digital system.
+NexaLife Care (previously known as Synergy Care Pro) functions as an **appointment-focused referral and care-coordination platform**, designed to connect clinics and patients via a secure, compliant, and traceable digital system.
 
 The platform is built around **two distinct patient journeys** — digitally independent users and assisted users who require in-person onboarding and transport — while maintaining strict controls around consent, privacy, and regulatory compliance.
 
